@@ -24,6 +24,10 @@ function Login() {
         <Container>
             <img src='https://storage.googleapis.com/pr-newsroom-wp/1/2018/11/Spotify_Logo_RGB_White.png' alt="" />
             <button onClick={handleClick}>LOGIN</button>
+
+            <footer>
+                <p>Made with ❤ By <span>Bhavesh kumar</span></p>
+            </footer>
         </Container>
     )
 }
@@ -57,6 +61,18 @@ button:hover{
 @media screen and (max-width:700px){
     img{
         width:98%;
+    }
+}
+
+footer{
+    color:white;
+    bottom:20px;
+    position:absolute;
+    background-color:#1db954;
+    padding:0.5rem;
+    border-radius:20px;
+    span{
+        cursor:pointer;
     }
 }
 
