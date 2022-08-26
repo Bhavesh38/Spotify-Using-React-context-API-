@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Spotify-Using-React-context-API-/static/css/main.545d20c7.css",
+    "main.js": "/Spotify-Using-React-context-API-/static/js/main.aef10f95.js",
+    "static/js/787.d146878d.chunk.js": "/Spotify-Using-React-context-API-/static/js/787.d146878d.chunk.js",
+    "index.html": "/Spotify-Using-React-context-API-/index.html",
+    "main.545d20c7.css.map": "/Spotify-Using-React-context-API-/static/css/main.545d20c7.css.map",
+    "main.aef10f95.js.map": "/Spotify-Using-React-context-API-/static/js/main.aef10f95.js.map",
+    "787.d146878d.chunk.js.map": "/Spotify-Using-React-context-API-/static/js/787.d146878d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.545d20c7.css",
+    "static/js/main.aef10f95.js"
+  ]
+}
