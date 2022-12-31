@@ -4,7 +4,7 @@ function Login() {
 
     const handleClick = () => {
         const clientId = "90968711e244450f853cdda0b8bf6c9e";
-        const redirectUrl = "https://Bhavesh38.github.io/Spotify-Using-React-context-API-/";
+        const redirectUrl = "https://Bhavesh38.github.io/Spotify-Using-React-context-API-";
         const apiUrl = "https://accounts.spotify.com/authorize";
         const scope = [
             'user-read-email',
